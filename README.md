@@ -1,7 +1,7 @@
 ---
 
 - 👋 Hi, I’m @sofyaleb
-- 👀 I’m interested in biostatistics, bioinformatics, genomic data analysis, and host genome-viral interactions.
+- 👀 I’m interested in biostatistics, genomic data analysis, and host genome-viral interactions.
 - 🌱 I’m currently learning R programming and improving my skills in processing FASTA and BAM files.
 - 💞️ I’m looking to collaborate on Hepatitis C Virus (HCV) genome research and related projects.
 - 📫 How to reach me: sofya.m.lebedeva@gmail.com
