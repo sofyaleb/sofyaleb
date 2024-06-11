@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Hepatitis C Virus (HCV) genome research and related projects.
 - 📫 How to reach me: sofya.m.lebedeva@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can spend some of my time standing on my hands and climbing things.
+- ⚡ Fun fact: I spend some of my time standing on my hands and climbing things.
 
 ---
 <!---
