@@ -26,7 +26,7 @@ I care about advancing research on neglected diseases and hope my work can infor
 - **[ARMoR](https://armoramr.org/)** (Alliance for Reducing Microbial Resistance): co-founder. The non-profit works on sustainable access to and development of antibiotics. It has raised £600k+, contributed to EU legislation, consulted for the WHO, World Bank, UICC and Novo Nordisk, and published work for the G7
 - **[Oxford Biosecurity Group](https://oxfordbiosecuritygroup.com/):** co-founded and directed research on projects from metagenomic sequencing to LMIC biosecurity mapping to an AI×Bio LLM benchmark
 - **[Biosecurity Forecasting Group](https://biosecurityforecasting.com/):** co-founder, now advisor
-- Mentor for AI×Biosecurity projects · SecureBio virology evals participant · iGEM Jamboree panel speaker
+- [Pivotal Research](https://www.pivotal-research.org/mentors/profile/sofya-lebedeva) mentor · mentor for AI×Biosecurity projects · SecureBio virology evals participant · iGEM Jamboree panel speaker
 
 ### 📄 Selected publications
 
@@ -52,5 +52,7 @@ I'm keen to work with others on **HCV and viral genomics**, **host genetics**, a
 ### ⚡ Away from the lab
 
 International triathlete 🏊‍♀️🚴‍♀️🏃‍♀️ · weightlifter · certified yoga teacher · visual art · handstands and climbing. Happy to chat about running, swimming, biking or strength training!
+
+I write about training on [Tri Systems](https://triathlonsystems.substack.com/p/welcome-to-tri-systems). Latest: [*Two weeks until my first half Ironman*](https://triathlonsystems.substack.com/p/two-weeks-until-my-first-half-ironman).
 
 <sub>Pronouns: she/her</sub>
