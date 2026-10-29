@@ -6,7 +6,6 @@ Molecular biologist and immunologist, DPhil (PhD) student at the **University of
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QIkx0tMAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4179-7648)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://sofyalebedeva.substack.com/)
-[![Book a call](https://img.shields.io/badge/Book_a_30--min_chat-006BFF?logo=calendly&logoColor=white)](https://calendly.com/sofya-lebedeva/30min)
 
 ---
 
@@ -48,7 +47,7 @@ Interview: [Biosecurity Activism, Futurized](https://www.futurized.org/biosecuri
 
 ### 🤝 Let's collaborate
 
-I'm keen to work with others on **HCV and viral genomics**, **host genetics**, and **biosecurity** projects. [Book a chat](https://calendly.com/sofya-lebedeva/30min) or email [sofya.m.lebedeva@gmail.com](mailto:sofya.m.lebedeva@gmail.com).
+I'm keen to work with others on **HCV and viral genomics**, **host genetics**, and **biosecurity** projects. Get in touch at [sofya.m.lebedeva@gmail.com](mailto:sofya.m.lebedeva@gmail.com).
 
 ### ⚡ Away from the lab
 
