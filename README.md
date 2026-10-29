@@ -19,6 +19,8 @@ HCV infections vary widely between individuals because of both human genetic div
 
 I care about advancing research on neglected diseases and hope my work can inform policy.
 
+**Previously:** [CatenaBio](https://catenabio.com/) (2022), a Berkeley biotech spun out of the Doudna and Francis labs at UC Berkeley, which uses enzymes to link proteins together to build new protein- and cell-based therapies.
+
 ### 🌍 Policy & impact
 
 - **[ARIA](https://aria.org.uk/) (UK government):** In 2025, advised on innate vaccine development, helping develop the thesis for ARIA's £57M universal vaccine call under the [*Sustained Viral Resilience*](https://aria.org.uk/opportunity-spaces/programmable-physiology/sustained-viral-resilience) programme
