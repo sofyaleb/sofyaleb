@@ -5,7 +5,7 @@ Molecular biologist and immunologist, DPhil (PhD) student at the **University of
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofyalebedeva/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QIkx0tMAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4179-7648)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://sofyalebedeva.substack.com/)
+[![Molecular Meditations](https://img.shields.io/badge/Molecular_Meditations-FF6719?logo=substack&logoColor=white)](https://sofyalebedeva.substack.com/)
 
 ---
 
@@ -37,7 +37,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=QIkx0tMA
 
 ### ✍️ Writing & talks
 
-On my [Substack](https://sofyalebedeva.substack.com/):
+On my Substack, [Molecular Meditations](https://sofyalebedeva.substack.com/):
 - *On-Ramps Into Biosecurity: A Model*
 - *Short-Term (<15 hours) Biosecurity Projects to Test Your Fit*
 - *Biosecurity Newsletters You Should Subscribe To*
@@ -50,8 +50,8 @@ I'm keen to work with others on **HCV and viral genomics**, **host genetics**, a
 
 ### ⚡ Away from the lab
 
-International triathlete 🏊‍♀️🚴‍♀️🏃‍♀️ · weightlifter · certified yoga teacher · visual art · handstands and climbing. Happy to chat about running, swimming, biking or strength training!
+International triathlete 🏊‍♀️🚴‍♀️🏃‍♀️ · weightlifter · certified yoga teacher · visual art · handstands. Happy to chat about running, swimming, biking or strength training!
 
-I write about training on [Tri Systems](https://triathlonsystems.substack.com/p/welcome-to-tri-systems). Latest: [*Two weeks until my first half Ironman*](https://triathlonsystems.substack.com/p/two-weeks-until-my-first-half-ironman).
+I write about training on [Tri Systems](https://triathlonsystems.substack.com/p/welcome-to-tri-systems).
 
 <sub>Pronouns: she/her</sub>
