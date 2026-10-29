@@ -21,7 +21,7 @@ I care about advancing research on neglected diseases and hope my work can infor
 
 **Previously:** Research Assistant Intern at [CatenaBio](https://catenabio.com/) (Oct 2021 – Dec 2022), a Berkeley biotech spun out of the Doudna and Francis labs at UC Berkeley that uses precision protein coupling to build targeted biotherapeutics. I developed a nanobody library against various CD markers.
 
-### 🌍 Policy & impact
+### 🌍 Policy & Impact
 
 - **[ARIA](https://aria.org.uk/) (UK government):** In 2025, advised on innate vaccine development, helping develop the thesis for ARIA's £57M universal vaccine call under the [*Sustained Viral Resilience*](https://aria.org.uk/opportunity-spaces/programmable-physiology/sustained-viral-resilience) programme
 - **[ARMoR](https://armoramr.org/)** (Alliance for Reducing Microbial Resistance): co-founder. The non-profit works on sustainable access to and development of antibiotics. It has raised £600k+, contributed to EU legislation, consulted for the WHO, World Bank, UICC and Novo Nordisk, and published work for the G7
