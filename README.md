@@ -21,7 +21,7 @@ I care about advancing research on neglected diseases and hope my work can infor
 
 ### 🌍 Policy & impact
 
-- **ARIA (UK government):** In 2025, advised on innate vaccine development, helping develop the thesis for ARIA's £57M universal vaccine call under the [*Sustained Viral Resilience*](https://aria.org.uk/opportunity-spaces/programmable-physiology/sustained-viral-resilience) programme
+- **[ARIA](https://aria.org.uk/) (UK government):** In 2025, advised on innate vaccine development, helping develop the thesis for ARIA's £57M universal vaccine call under the [*Sustained Viral Resilience*](https://aria.org.uk/opportunity-spaces/programmable-physiology/sustained-viral-resilience) programme
 - **[ARMoR](https://armoramr.org/)** (Alliance for Reducing Microbial Resistance): co-founder. The non-profit works on sustainable access to and development of antibiotics. It has raised £600k+, contributed to EU legislation, consulted for the WHO, World Bank, UICC and Novo Nordisk, and published work for the G7
 - **[Oxford Biosecurity Group](https://oxfordbiosecuritygroup.com/):** co-founded and directed research on projects from metagenomic sequencing to LMIC biosecurity mapping to an AI×Bio LLM benchmark
 - **[Biosecurity Forecasting Group](https://biosecurityforecasting.com/):** co-founder, now advisor
