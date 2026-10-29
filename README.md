@@ -19,7 +19,7 @@ HCV infections vary widely between individuals because of both human genetic div
 
 I care about advancing research on neglected diseases and hope my work can inform policy.
 
-**Previously:** [CatenaBio](https://catenabio.com/) (2022), a Berkeley biotech spun out of the Doudna and Francis labs at UC Berkeley, which uses enzymes to link proteins together to build new protein- and cell-based therapies.
+**Previously:** Research Assistant Intern at [CatenaBio](https://catenabio.com/) (Oct 2021 – Dec 2022), a Berkeley biotech spun out of the Doudna and Francis labs at UC Berkeley that uses precision protein coupling to build targeted biotherapeutics. I developed a nanobody library against various CD markers.
 
 ### 🌍 Policy & impact
 
