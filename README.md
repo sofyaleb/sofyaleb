@@ -48,7 +48,7 @@ Interview: [Biosecurity Activism, Futurized](https://www.futurized.org/biosecuri
 
 ### 🤝 Let's collaborate
 
-I'm keen to work with others on **HCV and viral genomics**, **host genetics**, and **biosecurity** projects. Get in touch at [sofya.m.lebedeva@gmail.com](mailto:sofya.m.lebedeva@gmail.com).
+I'm keen to collaborate! 📫 [sofya.m.lebedeva@gmail.com](mailto:sofya.m.lebedeva@gmail.com)
 
 ### ⚡ Away from the lab
 
